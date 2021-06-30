@@ -1,4 +1,6 @@
 
+
+
 const pokeappear=document.getElementById('pokeappear');
 const pokepic=document.getElementById('pokepic');
 let inputval=0;
