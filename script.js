@@ -2,6 +2,8 @@
 
 
 const pokeappear=document.getElementById('pokeappear');
+
+
 const pokepic=document.getElementById('pokepic');
 let inputval=0;
  let API_POKEMON= 'https://pokeapi.co/api/v2/pokemon/';
