@@ -23,4 +23,5 @@ function ShowPokemon(form){
   getUser();
 }
 
+//working on the pokedex functionality
 
